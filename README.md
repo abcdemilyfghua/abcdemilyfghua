@@ -1,7 +1,4 @@
-<img width="200" height="250" alt="hellogithub" src="https://github.com/user-attachments/assets/3fb4dfa9-2fd8-4d20-b83a-8d1dd89017ee" />
-
-<img align="right" width="180" height="240" alt="babymegithubicon" src="https://github.com/user-attachments/assets/a5249a67-b363-43c6-b2ed-634efb3ca00d" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=200&color=F742B4&background=FFFFFF00&height=27&lines=musician;athlete;artist;content+creator;dog+mom)](https://git.io/typing-svg)
 
 ## about me
 🏔️ &nbsp; from vancouver, bc <br>
