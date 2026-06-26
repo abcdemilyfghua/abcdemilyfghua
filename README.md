@@ -26,4 +26,4 @@
 ## kudos
 feel free to copy, fork, and share any of my repos. if you make a video with my code, tag me!
 
-
+![GitHub Snake](https://raw.githubusercontent.com/abcdemilyfghua/abcdemilyfghua/output/github-snake.svg)
