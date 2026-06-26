@@ -24,6 +24,6 @@
 | [Snappy](https://github.com/abcdemilyfghua/Snappy) | Native SwiftUI macOS app that transcribes, tags, and lets users chat with their video clips; built a pipeline of ffmpeg, Deepgram, and Claude with caching and a Cloudflare Worker proxy |
 
 ## kudos
-feel free to copy, fork, and share any of my repos. if you make a video with my code, tag me!
+feel free to copy, fork, and share any of my repos!
 
 ![GitHub Snake](https://raw.githubusercontent.com/abcdemilyfghua/abcdemilyfghua/output/github-snake.svg)
