@@ -25,5 +25,3 @@
 
 ## kudos
 feel free to copy, fork, and share any of my repos!
-
-![GitHub Snake](https://raw.githubusercontent.com/abcdemilyfghua/abcdemilyfghua/output/github-snake.svg)
