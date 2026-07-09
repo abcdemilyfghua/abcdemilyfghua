@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=abcdemilyfghua&color=green&label=Visitors)
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
