@@ -17,11 +17,3 @@
 ## about me
 🏔️ &nbsp; from vancouver, bc <br>
 🫧 &nbsp; computer science @ georgia institute of technology <br>
-
-## 📁 fav repos
-| name | description |
-| --- | --- |
-| [Snappy](https://github.com/abcdemilyfghua/Snappy) | Native SwiftUI macOS app that transcribes, tags, and lets users chat with their video clips; built a pipeline of ffmpeg, Deepgram, and Claude with caching and a Cloudflare Worker proxy |
-
-## kudos
-feel free to copy, fork, and share any of my repos!
